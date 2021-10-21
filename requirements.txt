@@ -1,3 +1,2 @@
- np.__version__
 numpy==1.20.3
 streamlit==1.0.0
